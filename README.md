@@ -44,6 +44,7 @@ The code of conduct for the group of Geocomputation and Earth Observation.
 - Whenever possible and appropriate, contact me (Beni) with any concerns. We try to address conflicts through personal conversations, and if necessary with the help of thesis co-advisors.
 - If you have any mental health issues you should feel free to reach out to me or other lab members.
 - Several advisory services are offered through UniBe (see [here](https://www.unibe.ch/university/portrait/self_image/equal_opportunities/advisory_service/index_eng.html)) and may be contacted also without notifying me (Beni).
+- Support for your mental wellbeing, career planning, etc. is also provided by the University's councelling centre (see [here](https://www.bst.bkd.be.ch/en/start.html)).
 
 ## Supervision, mentoring, and responsibilities
 
