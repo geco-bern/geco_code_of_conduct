@@ -120,7 +120,7 @@ The code of conduct for the group of Geocomputation and Earth Observation.
 
 ### Manuscript preparation, submission, and deposition
 
-- Use either Google Docs or Overleaf. It is recommended to manage citations using Zotero and the shared libraries of the Zotero group (see [here](https://www.notion.so/GECO-Code-b2863999219046ff86af18f349a07646?pvs=21)).
+- Use either Google Docs, Word, or Overleaf. It is recommended to manage citations using Zotero and the shared libraries of the Zotero group (see [here](https://www.notion.so/GECO-Code-b2863999219046ff86af18f349a07646?pvs=21)). Avoid sharing manuscript via the integrated sharing option through Word and Sharepoint (limited permissions and no Zotero integration).
 - Involve co-authors in manuscript writing. Involve direct supervisors early - at the stage of manuscript design (contents as bullet points, display items). Once an initial draft with formulated text is available, share it with all co-authors and give them a clear indication about the time until when you expect their feedback. Be kind and respectful of their agendas and lives: allow at least 2 weeks for inputs on manuscripts (1 week for conference contributions).
 - Consider all feedback from all co-authors of your manuscript. If you chose not to follow suggestions, explain why by answering them directly, make your decision transparent to all co-authors and allow for inputs from all co-authors on the decision.
 - Update all co-authors on all stages of the manuscript submission and review process.
